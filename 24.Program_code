@@ -1,0 +1,17 @@
+24.Setup Drupal server and develop a site on it?
+Steps:
+Before a Drupal installation
+You need a web server with a database and PHP. The server could be your personal computer, or at an online web host.
+Step 1: Get the Code.
+Install the files you need to run Drupal. 
+Step 2: Install dependencies with composer
+If you installed or updated the codebase using git, then install required PHP libraries with composer.
+Step 3: Create a database
+Create a database for Drupal to use. 
+Step 4: Configure your installation
+Set up the web server and PHP to work together. 
+Step 5: Run the installer
+Run the installation script.
+Step 6: Status check
+Check the status of your site at Administration > Reports > Status report. Set trusted hosts patterns, create files directories.
+OUTPUT:
